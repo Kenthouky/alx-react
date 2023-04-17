@@ -1,0 +1,19 @@
+{
+  "name": "0x00-Webpack",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+	  "build": "webpack"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "webpack": "^5.79.0"
+  },
+  "dependencies": {
+    "jQuery": "^1.7.4",
+    "lodash": "^4.17.21"
+  }
+}

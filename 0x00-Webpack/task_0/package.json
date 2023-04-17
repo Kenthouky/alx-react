@@ -1,0 +1,18 @@
+{
+  "name": "alx-react",
+  "version": "1.0.0",
+  "description": "Alx-project",
+  "main": "index.js",
+  "dependencies": {
+    "jQuery": "^1.7.4"
+  },
+  "devDependencies": {
+	  "webpack-cli": "^5.0.1",
+	  "webstack": "^0.01"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
